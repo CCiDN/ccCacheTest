@@ -1,0 +1,3 @@
+/home/tcc/mytest/myCache/build/CMakeFiles/TestMyCache.dir
+/home/tcc/mytest/myCache/build/CMakeFiles/edit_cache.dir
+/home/tcc/mytest/myCache/build/CMakeFiles/rebuild_cache.dir
